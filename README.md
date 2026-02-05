@@ -1,7 +1,7 @@
-CSC 4632 Lab 1: Introduction to Git & GitHub for 
-Software Maintenance
+**CSC 4632 Lab 1: Introduction to Git & GitHub for 
+Software Maintenance**
 
-GROUP MEMBERS:
+**GROUP MEMBERS:**
 1. JEREMIAH KONDOWE
 2. CHINTU LUNGU
 
